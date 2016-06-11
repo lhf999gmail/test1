@@ -1,0 +1,41 @@
+1. ÓÃ»§Î´¹Ø×¢Ê±£¬½øÐÐ¹Ø×¢ºóµÄÊÂ¼þÍÆËÍ
+
+<xml>
+<ToUserName><![CDATA[gh_45072270791c]]></ToUserName>
+<FromUserName><![CDATA[o7Lp5t6n59DeX3U0C7Kric9qEx-Q]]></FromUserName>
+<CreateTime>1389684286</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_1000]]></EventKey>
+<Ticket><![CDATA[gQHi8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0UweTNxNi1sdlA3RklyRnNKbUFvAAIELdnUUgMEAAAAAA==]]></Ticket>
+</xml>
+
+2. ÓÃ»§ÒÑ¹Ø×¢Ê±µÄÊÂ¼þÍÆËÍ
+
+<xml>
+<ToUserName><![CDATA[gh_45072270791c]]></ToUserName>
+<FromUserName><![CDATA[o7Lp5t6n59DeX3U0C7Kric9qEx-Q]]></FromUserName>
+<CreateTime>1389684184</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[1000]]></EventKey>
+<Ticket><![CDATA[gQHi8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0UweTNxNi1sdlA3RklyRnNKbUFvAAIELdnUUgMEAAAAAA==]]></Ticket>
+</xml>
+
+wx67bbd4e851756a8a
+http://www.rongx.com/quanjiantiyu_prod/fun/oauth2_test.asp
+
+
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx25408ceeb30b950c&redirect_uri=https%3A%2F%2Fwww%2Erongx%2Ecom%2Fquanjiantiyu%5Fprod%2Ffun%2Fttt%2Easp&response_type=code&scope=snsapi_base&state=llhhff#wechat_redirect
+
+
+http://www.rongx.com/quanjiantiyu/fun/jssdk_sample.asp
+
+
+400-6171-354
+www22222222222233222222223222211222333334433222222232122332222212222222222223332223334232222222222222222222111222222222112222222222222222222222232323232323232323232
+
+a ddd
+
+
+22223334444555556666677788888999990000--==111122222
